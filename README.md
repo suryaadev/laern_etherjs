@@ -4,4 +4,4 @@ Repo contains scripts for connecting to blockchain and do read or write operatio
 
 # How to run scripts
 ✔ yarn install first to install the dependencies
-✔ node filename (if node is not installed follow this (ow to install node)[https://nodejs.org/en/download/] )
+✔ node filename (if node is not installed follow this [How to install node](https://nodejs.org/en/download/) )
