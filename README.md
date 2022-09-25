@@ -9,6 +9,6 @@ yarn install
 ```
 first to install the dependencies
 ```sh
-node (filename.js)
+node (...filename.js)
 ```
 if node is not installed follow this [How to install node](https://nodejs.org/en/download/)
