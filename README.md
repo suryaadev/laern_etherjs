@@ -1,4 +1,4 @@
-# learn_etherjs
+# learn_ETHERjs
 
 Repo contains scripts for connecting to blockchain and do read or write operations on blockchain using ethers.js 
 
